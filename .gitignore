@@ -1,0 +1,13 @@
+.venv/
+venv_gpu/
+__pycache__/
+index_data/
+.cache/
+final_results*/
+output/
+input/
+*.log
+*.txt
+err.txt
+!README.md
+!requirements.txt
